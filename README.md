@@ -1,5 +1,3 @@
-# Convention Center Assignment
+# Convention Center
 
-## [https://classroom.github.com/a/DSUQJcwB](https://classroom.github.com/a/DSUQJcwB)
-
-### Private Repository Link: [https://classroom.github.com/a/DSUQJcwB](https://classroom.github.com/a/DSUQJcwB)
+### Live Link: [Click Here](https://sayedmdsafwan.github.io/convention-center-bootstrap/)
